@@ -1,5 +1,4 @@
-# html-css-pure-dropdown-menu
-Pure HTML/CSS DropDown Menu
+# Pure HTML/CSS DropDown Menu
 
 <b>Demo:</b> https://codepen.io/diegodarlan/pen/EGYKEq
 
